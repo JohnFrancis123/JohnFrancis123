@@ -113,7 +113,7 @@ I care about software that is not just functional but **engineered well** — cl
 <td width="50%" valign="top">
 <div align="center">
 
-### 🧠 CNN Classifier
+### CNN Classifier
 
 <img src="https://img.shields.io/badge/DOMAIN-Machine_Learning-2563eb?style=flat-square&labelColor=0f172a" />
 &nbsp;
@@ -133,7 +133,7 @@ Full CNN image classification pipeline for CIFAR-10 with explicit model definiti
 <td width="50%" valign="top">
 <div align="center">
 
-### ⚙️ Physics Engine Demo
+### Physics Engine Demo
 
 <img src="https://img.shields.io/badge/DOMAIN-Systems_Programming-7c3aed?style=flat-square&labelColor=0f172a" />
 &nbsp;
@@ -154,13 +154,14 @@ Core kinematics and rigid body simulation with correct update-step integration. 
 <td width="50%" valign="top">
 <div align="center">
 
-### 🎨 InitOpenGL
+### InitOpenGL
 
 <img src="https://img.shields.io/badge/DOMAIN-Graphics_Engineering-0891b2?style=flat-square&labelColor=0f172a" />
 &nbsp;
 <a href="https://github.com/JohnFrancis123/InitOpenGL"><img src="https://img.shields.io/badge/VIEW_REPO-%E2%86%92-0891b2?style=flat-square&logo=github&labelColor=0f172a" /></a>
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=flat-square&logo=opengl&logoColor=black" />
 
 </div>
@@ -172,13 +173,14 @@ End-to-end OpenGL rendering setup: vertex buffers, shader compilation, and full 
 <td width="50%" valign="top">
 <div align="center">
 
-### 🛠️ Game Tools Editor
+### Game Tools Editor
 
 <img src="https://img.shields.io/badge/DOMAIN-Tooling_%26_Graphics-22d3ee?style=flat-square&labelColor=0f172a" />
 &nbsp;
 <a href="https://github.com/JohnFrancis123/GameToolsEditor"><img src="https://img.shields.io/badge/VIEW_REPO-%E2%86%92-22d3ee?style=flat-square&logo=github&labelColor=0f172a" /></a>
 
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/HLSL-6d28d9?style=flat-square&logoColor=white" />
 
 </div>
@@ -193,7 +195,7 @@ Editor tooling in C# with structured application logic and graphics-adjacent wor
 <td width="50%" valign="top">
 <div align="center">
 
-### 🏰 Unreal Tower Climber
+### Unreal Tower Climber
 
 <img src="https://img.shields.io/badge/DOMAIN-Gameplay_Engineering-16a34a?style=flat-square&labelColor=0f172a" />
 &nbsp;
@@ -211,13 +213,14 @@ Gameplay systems in Unreal: movement, collision, actor/component architecture, a
 <td width="50%" valign="top">
 <div align="center">
 
-### 🖥️ Screen Time Manager
+### Screen Time Manager
 
 <img src="https://img.shields.io/badge/DOMAIN-Desktop_Application-f59e0b?style=flat-square&labelColor=0f172a" />
 &nbsp;
 <a href="https://github.com/JohnFrancis123/ScreenTimeManagerApp"><img src="https://img.shields.io/badge/VIEW_REPO-%E2%86%92-f59e0b?style=flat-square&logo=github&labelColor=0f172a" /></a>
 
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 
 </div>
 
@@ -231,20 +234,22 @@ Stateful desktop application in C# with user-facing logic and structured program
 <td colspan="2" align="center" valign="top">
 <div align="center">
 
-### 🍲 Grandma's Cooking
+### Grandma's Cooking
 
 <img src="https://img.shields.io/badge/DOMAIN-Full_Stack_Web-f97316?style=flat-square&labelColor=0f172a" />
 &nbsp;
 <a href="https://github.com/LVaizel/Grandmas_Cooking_New"><img src="https://img.shields.io/badge/VIEW_REPO-%E2%86%92-f97316?style=flat-square&logo=github&labelColor=0f172a" /></a>
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" />
 
 </div>
 
-A full-stack recipe management web application built with Angular on the front end and ASP.NET Core on the back end. Supports user authentication, CRUD operations for recipes, and responsive design. Uses a SQL database for persistent storage, demonstrating modern web development patterns from API design to UI.
+A full-stack recipe management web application built with ASP.NET Core on the back end and server-rendered HTML/CSS/JavaScript on the front end. Supports user authentication, CRUD operations for recipes, and responsive design. Uses a SQL database for persistent storage, demonstrating modern web development patterns from API design to UI.
 
 </td>
 
