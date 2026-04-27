@@ -4,16 +4,11 @@
 
 <br/>
 
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Training+and+serving+ML+models;Engineering+graphics+pipelines+in+C%2B%2B+%2F+OpenGL;Building+full-stack+web+applications+with+Angular;Developing+performant+backend+services+in+.NET;Unreal+Engine+gameplay+engineering" alt="Typing SVG" />
 
 <br/><br/>
 
-&nbsp;
-<img src="https://img.shields.io/badge/STACK-C%2B%2B_%7C_C%23_%7C_PYTHON-0ea5e9?style=for-the-badge&labelColor=0f172a" />
-
-<br/><br/>
 
 </div>
 
