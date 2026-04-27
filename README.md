@@ -10,9 +10,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/JohnFrancis123">
-  <img src="https://img.shields.io/github/followers/JohnFrancis123?style=for-the-badge&logo=github&color=2563eb&labelColor=0f172a&label=GITHUB" />
-</a>
 &nbsp;
 <img src="https://img.shields.io/badge/STACK-C%2B%2B_%7C_C%23_%7C_PYTHON-0ea5e9?style=for-the-badge&labelColor=0f172a" />
 
